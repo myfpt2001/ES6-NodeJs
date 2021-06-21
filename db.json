@@ -1,0 +1,183 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "AIR SHREWS"
+    },
+    {
+      "id": 2,
+      "name": "AIR CAMIWES"
+    }
+  ],
+  "products": [
+    {
+      "id": 7,
+      "name": "BASEBALL CAP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-220eb.appspot.com/o/image%2Fp-1.jpg?alt=media&token=068a290f-08d0-4f98-bf13-463046ab0332",
+      "price": "152.000",
+      "status": true,
+      "quantity": "63",
+      "description": " In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain",
+      "categoryID": "1"
+    },
+    {
+      "id": 8,
+      "name": "BASEBALL CAP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-220eb.appspot.com/o/image%2Fp-6.jpg?alt=media&token=45634c6d-e09c-4315-9af5-5004eff7dfcf",
+      "price": "152.00",
+      "status": true,
+      "quantity": "63",
+      "description": "Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain",
+      "categoryID": 1
+    },
+    {
+      "id": 9,
+      "name": "BASEBALL CAPS",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-220eb.appspot.com/o/image%2Fp-5.jpg?alt=media&token=ba1245dd-685a-48d2-bf82-99f6d9a6da7e",
+      "price": "152.00",
+      "status": true,
+      "quantity": "61",
+      "description": " Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain",
+      "categoryID": 1
+    },
+    {
+      "id": 10,
+      "name": "BASEBALL CAP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-220eb.appspot.com/o/image%2Fp-3.jpg?alt=media&token=cac0d5ac-03b4-44a9-9534-c4e89bd1a8fb",
+      "price": "152.000000",
+      "status": true,
+      "quantity": "68",
+      "description": "  Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain",
+      "categoryID": 1
+    },
+    {
+      "id": 11,
+      "name": "BASEBALL CAP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-220eb.appspot.com/o/image%2Fp-4.jpg?alt=media&token=3252ff6b-c2f1-4b3a-928e-d580776c955e",
+      "price": "152.00",
+      "status": true,
+      "quantity": "611",
+      "description": " Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain",
+      "categoryID": "1"
+    },
+    {
+      "id": 11,
+      "name": "BASEBALL CAP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-220eb.appspot.com/o/image%2Fp-9.jpg?alt=media&token=650bd88a-8866-4f9a-87cc-c82a44276865",
+      "price": "152.00",
+      "status": true,
+      "quantity": "61",
+      "description": " Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain",
+      "categoryID": "1"
+    },
+    {
+      "id": 12,
+      "name": "BASEBALL CAP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-220eb.appspot.com/o/image%2Fp-10.jpg?alt=media&token=c8d968c1-309b-4509-9b9b-2710fd72e76a",
+      "price": "152.000",
+      "status": true,
+      "quantity": "3",
+      "description": " Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain",
+      "categoryID": "2"
+    },
+    {
+      "id": 14,
+      "name": "BASEBALL CAP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-220eb.appspot.com/o/image%2Fp-11.jpg?alt=media&token=f69dc5b1-cc4d-4ef4-ae68-f026f7828c7e",
+      "price": "152.00",
+      "status": true,
+      "quantity": "61",
+      "description": "Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain work and produce new, crazy, beautiful ideas. We launched three years ago and loved it every second. At the time I was just a man with an ideea but 2 weeks later I was a man with a plan. We jumped on this adventure and learned a lot along the way. Two days after launching we had our first client. In what we do, being creative is crucial. And we love the moments when we have to make our brain",
+      "categoryID": "2"
+    }
+  ],
+  "contact": [
+    {
+      "name": "My",
+      "email": "myntph12144@fpt.edu.vn",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-220eb.appspot.com/o/img%2Fundefined?alt=media&token=8d085e52-e76b-4b37-8bba-c12fad699db8",
+      "subject": "Test",
+      "message": "fah",
+      "id": 1
+    },
+    {
+      "name": "hau",
+      "emial": "myntph12144@fpt.edu.vn",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-220eb.appspot.com/o/img%2Fundefined?alt=media&token=c7a29ebb-f29c-46d6-9b90-1aa4e8745f3e",
+      "subject": "Test",
+      "message": "yiti7",
+      "id": 2
+    },
+    {
+      "name": "hau",
+      "emial": "myntph12144@fpt.edu.vn",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-220eb.appspot.com/o/img%2Fundefined?alt=media&token=634b8a92-f39f-46cb-9476-e6221a743f20",
+      "subject": "Test",
+      "message": "shhfj",
+      "id": 3
+    },
+    {
+      "name": "hau",
+      "emial": "myntph12144@fpt.edu.vn",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-220eb.appspot.com/o/img%2Fundefined?alt=media&token=9406d014-7200-47c4-8d9b-aa6f8d05fa24",
+      "subject": "Test",
+      "message": "sdg",
+      "id": 4
+    }
+  ],
+  "blog": [
+    {
+      "title": "Easy Family Home Work Outs",
+      "image": "./img/b6.jpg",
+      "content": "Even though most of Utah has fully opened up – we’ve been having fun doing some quick family work outs....",
+      "id": 1
+    },
+    {
+      "title": "4 Ways To Wear A Button-Up Shirt",
+      "image": "./img/b8_540x.jpg",
+      "content": "TeHey guys! I wanted to share the ‘Best of’ multiple categories from the Nordstrom Sale, from footwear to beauty to...st",
+      "id": 2
+    },
+    {
+      "title": "5 Days Of Simple Summer Looks",
+      "image": "./img/b5_540x.jpg",
+      "content": "Summer days can be unpredictable. With kids out of school, we are always in search or something new to keep...",
+      "id": 3
+    },
+    {
+      "title": "Matching Mom-Daughter Suit",
+      "image": "https://cdn.shopify.com/s/files/1/0415/5382/1854/articles/b1_540x.jpg?v=1594958786",
+      "content": "Fruit prints are back on the rise this summer and the high-schooler in me is here for it. It feels...",
+      "id": 4
+    },
+    {
+      "title": "5 Benefits of Taking Baths",
+      "image": "https://cdn.shopify.com/s/files/1/0415/5382/1854/articles/b2_540x.jpg?v=1594999832",
+      "content": "Baths can improve skin health. Originally you might think that baths would maybe dry out your skin because of those..",
+      "id": 5
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "wqee1",
+      "email": "mybg2309@gmail.com",
+      "password": "1234",
+      "sex": "1"
+    },
+    {
+      "name": "wqee1",
+      "email": "mybg2309@gmail.com",
+      "password": "1234",
+      "sex": "1",
+      "id": 2
+    },
+    {
+      "name": "wqee1",
+      "email": "mybg2309@gmail.com",
+      "password": "1234",
+      "sex": "1",
+      "id": 3
+    }
+  ]
+}

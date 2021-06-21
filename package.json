@@ -1,0 +1,20 @@
+{
+    "name": "frontend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "webpack serve --open --port 4040 --mode development",
+        "start:server": "json-server --watch db.json"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "firebase": "^8.2.9",
+        "webpack": "^5.17.0",
+        "webpack-cli": "^4.4.0",
+        "webpack-dev-server": "^3.11.2"
+    }
+}
